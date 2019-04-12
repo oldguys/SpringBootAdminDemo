@@ -1,4 +1,7 @@
-#### spring-boot-admin
+> spring-boot-admin 一个监控SpringBoot项目状态的应用
+> github (server 端）： https://github.com/oldguys/SpringBootAdminDemo
+> github (client端) ：https://github.com/oldguys/SpringBootAdminClientDemo
+
 
 与Eureka相似，引入Maven直接作为注册中心。
 
@@ -56,4 +59,5 @@ management:
         include: "*"
 ~~~
 
+到此完成了SpringBootAdmin Server和Client的配置
 
